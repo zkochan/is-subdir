@@ -1,5 +1,7 @@
 # is-subdir
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zkochan/is-subdir.svg)](https://greenkeeper.io/)
+
 > Return whether a directory is a subdirectory of another directory
 
 <!--@shields('npm', 'travis', 'appveyor')-->
