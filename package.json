@@ -1,6 +1,6 @@
 {
   "name": "is-subdir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Return whether a directory is a subdirectory of another directory",
   "main": "index.js",
   "files": [
