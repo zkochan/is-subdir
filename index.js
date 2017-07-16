@@ -8,8 +8,8 @@ const isSubdirOnNormalized = isWindows()
 
 module.exports = function isSubdir(parent, dir) {
   return isSubdirOnNormalized(
-    path.normalize(parent),
-    path.normalize(dir)
+    path.resolve(parent),
+    path.resolve(dir)
   )
 }
 
