@@ -10,6 +10,9 @@
     "test": "mos t && node test",
     "md": "mos"
   },
+  "engines": {
+    "node": ">=4"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zkochan/is-subdir.git"
