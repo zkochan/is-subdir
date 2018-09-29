@@ -1,3 +1,5 @@
+> moved to https://github.com/zkochan/packages/tree/master/is-subdir
+
 # is-subdir
 
 > Return whether a directory is a subdirectory of another directory
